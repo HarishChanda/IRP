@@ -1,5 +1,5 @@
 What is CI
-
+- Line added by Harish for testing the branch merging
 - a development methodology
 - of daily developer integrations
 - verified by automated builds
